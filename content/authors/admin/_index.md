@@ -55,16 +55,16 @@ interests:
 education:
   - area: Ph.D., Hydrology and Remote Sensing
     institution: The Australian National University
-    date_start: 2021-07
-    date_end: 2024-08
+    date_start: 2021-07-01
+    date_end: 2024-08-21
   - area: M.Sc., Environment (Advanced)
     institution: The Australian National University
-    date_start: 2018-07
-    date_end: 2020--06
+    date_start: 2018-07-01
+    date_end: 2020-06-01
   - area: B.Mgmt., Land Resources Management
     institution: Southwest University
-    date_start: 2014-09
-    date_end: 2018-06
+    date_start: 2014-09-01
+    date_end: 2018-06-01
 work:
   - position: Postdoctoral Researcher
     company_name: University of Sydney
