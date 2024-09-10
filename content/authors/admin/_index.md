@@ -69,7 +69,7 @@ work:
   - position: Postdoctoral Researcher
     company_name: University of Sydney
     company_url: 'https://www.sydney.edu.au/'
-    company_logo: ''
+    company_logo: uploads/usyd.jpeg
     date_start: 2024-09-09
     date_end: ''
     summary: |2-
@@ -94,7 +94,7 @@ awards:
     url: 
     date: '2024-07-07'
     awarder: 
-    icon: IGARSS 2024
+    icon:
     summary: |
       Top 10 out of 375 submissions
 ---
