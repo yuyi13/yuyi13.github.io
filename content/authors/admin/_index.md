@@ -92,7 +92,7 @@ languages:
 awards:
   - title: IEEE IGARSS Student Paper Competition Finalists
     url: 
-    date: '2024'
+    date: '2024-07-07'
     awarder: 
     icon: IGARSS 2024
     summary: |
