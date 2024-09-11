@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am currently working for the development of mechanism-driven deep learning model to enable enhanced spatial agricultural modelling. I am also involved in a few industry-aligned projects focusing on interdisciplinary challenges in agricultural innovation and climate science, leveraging statistical methodologies and high-performance computing (HPC) resources.
         
-        Please reach out to collaborate 😃
+        I developed a variant of a spatiotemporal fusion algorithm to enhance the accuracy of downscaled land surface temperature (LST) data, alongside which I released a benchmark dataset to support future algorithmic refinements.
+        
+        I also contributed to a Himawari-8 project that aimed at developing geostationary data products for enhanced sub-daily monitoring of Australia’s ecosystems, where I was responsible for the development of an LST product.
     design:
       columns: '1'
   - block: collection
