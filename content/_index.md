@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am currently working for the development of mechanism-driven deep learning model to enable enhanced spatial agricultural modelling at the [USYD Precision Agriculture Lab](https://precision-agriculture.sydney.edu.au/). I am also involved in a few industry-aligned projects focusing on interdisciplinary challenges in agricultural innovation and climate science, leveraging statistical methodologies and high-performance computing (HPC) resources.
+        I am currently working on the development of mechanism-driven deep learning model to enable enhanced spatial agricultural modelling at the USYD Precision Agriculture Lab. I am also involved in a few industry-aligned projects focusing on interdisciplinary challenges in agricultural innovation and climate science, leveraging statistical methodologies and high-performance computing (HPC) resources.
         
-        Previously, I developed a [variant](https://doi.org/10.1016/j.rse.2023.113784) of a spatiotemporal fusion algorithm to enhance the accuracy of downscaled land surface temperature (LST) data, alongside which I released a [benchmark dataset](https://doi.org/10.25919/rrpg-m948) to support future algorithmic refinements.
+        Previously, I developed a variant of a spatiotemporal fusion algorithm to enhance the accuracy of downscaled land surface temperature (LST) data, alongside which I released a benchmark dataset to support future algorithmic refinements.
         
-        I also contributed to a Himawari-8 project that aimed at developing geostationary data products for enhanced sub-daily monitoring of Australia’s ecosystems, where I was responsible for the development of an [LST product](https://doi.org/10.25901/1hww-x877).
+        I also contributed to a Himawari-8 project that aimed at developing geostationary data products for enhanced sub-daily monitoring of Australia’s ecosystems, where I was responsible for the development of an LST product.
     design:
       columns: '1'
   - block: collection
