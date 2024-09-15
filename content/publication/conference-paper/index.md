@@ -30,7 +30,7 @@ publication_short:
 abstract: The evaluation of modelled or satellite-derived soil moisture (SM) estimates is usually dependent on comparisons against in-situ SM measurements. However, the inherent mismatch in spatial support (i.e., scale) necessitates a cautious interpretation of point-to-pixel comparisons. The upscaling of the in-situ measurements to a commensurate resolution to that of the modelled or retrieved SM will lead to a fairer comparison and statistically more defensible evaluation. In this study, we presented an upscaling approach that combines spatiotemporal fusion with machine learning to extrapolate point-scale SM measurements from 28 in-situ sites to a 100 m resolution for an agricultural area of 100 km by 100 km. We conducted a four-fold cross-validation, which consistently demonstrated comparable correlation performance across folds, ranging from 0.6 to 0.9. The proposed approach was further validated based on a cross-cluster strategy by using two spatial subsets within the study area, denoted as cluster A and B, each of which equally comprised of 12 in-situ sites. The cross-cluster validation underscored the capability of the upscaling approach to map the spatial variability of SM within areas that were not covered by in-situ sites, with correlation performance ranging between 0.6 and 0.8. In general, our proposed upscaling approach offers an avenue to extrapolate point measurements of SM to a spatial scale more akin to climatic model grids or remotely sensed observations. Future investigations should delve into a further evaluation of the upscaling approach using independent data, such as model simulations, satellite retrievals or field campaign data.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: 
 
 tags:
   - Soil moisture
@@ -72,15 +72,6 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: 
+  - example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
